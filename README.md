@@ -1,8 +1,8 @@
 # Bug-Bounty
 ## Bug Bonty Tools
-1- Subdomain discovery with Subfinder
-2- Discover subdomains via http://crt.sh
-3- Check live subdomains with HTTPX
+# 1- Subdomain discovery with Subfinder
+# 2- Discover subdomains via http://crt.sh
+# 3- Check live subdomains with HTTPX
 4- Port scanning with Naabu:
 5- Directory brute-forcing using Dirsearch:
 6- Gather parameters with Gau:
