@@ -1,4 +1,4 @@
-# Bug-Bounty
+# Bug-Bounty Methodology
 ## Bug Bonty Tools
 ### 1- Subdomain discovery with Subfinder
 ### 2- Discover subdomains via http://crt.sh
